@@ -1,0 +1,12 @@
+matplotlib==3.0.2
+Flask==1.0.2
+Flask_Cors==3.0.7
+tldextract==2.2.0
+Flask_RESTful==0.3.7
+pandas==0.24.1
+regex==2019.02.21
+python_whois==0.7.1
+numpy==1.16.1
+beautifulsoup4==4.7.1
+scikit_learn==0.20.2
+whois==0.7
