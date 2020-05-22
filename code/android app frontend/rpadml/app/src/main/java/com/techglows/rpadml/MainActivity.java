@@ -1,3 +1,7 @@
+/*Author: Abdukl Ghani
+ * Website: https://abdulghani.tech
+ * Github Repo: https://github.com/abdulghanitech/rpad-ml
+ * */
 package com.techglows.rpadml;
 
 import android.accessibilityservice.AccessibilityService;
